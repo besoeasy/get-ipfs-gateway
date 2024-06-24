@@ -5,7 +5,7 @@ Get working IPFS Gateway
 ### Install
 
 ```
-npm i get-ipfs-gateway
+npm i besoeasy/get-ipfs-gateway
 ```
 
 ### Usage
